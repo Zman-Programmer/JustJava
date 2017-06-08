@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Just Java</string>
+
+    <string name="toppings">Toppings</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="hint">Name</string>
+    <string name="cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="Quantity">Quantity</string>
+    <string name="Order">Order</string>
+</resources>
